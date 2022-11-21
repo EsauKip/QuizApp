@@ -17,7 +17,7 @@
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/NoActionBarTheme"
-            android:windowSoftInputMode="adjustResize"
+            android:windowSoftInputMode="adjustResize" 
             >
 
             <intent-filter>
